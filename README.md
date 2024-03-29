@@ -1,6 +1,6 @@
 # (CODE CHALLENGE)
 
-#### Date, 2024/03/32
+#### Date, 2024/03/29
 
 #### By *Grace Gitau*
 
@@ -35,10 +35,10 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone  git@github.com:gitaunthama/week2-codechallenge.git
 
 # Live Link
-[Git]
+[Git] https://github.com/gitaunthama/week2-codechallenge.git
 
 ## Technologies used
 HTML
