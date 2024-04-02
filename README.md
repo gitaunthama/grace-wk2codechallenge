@@ -35,10 +35,10 @@ You use git clone to be able to download the documents in the GitHub and work wi
 Git
 
 ### Installation instructions
-Git clone  
+Git clone  git@github.com:gitaunthama/grace-wk2codechallenge.git
 
 # Live Link
-[Git] 
+[Git](https://github.com/gitaunthama/grace-wk2codechallenge.git)
 
 ## Technologies used
 HTML
