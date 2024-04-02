@@ -2,29 +2,30 @@
 
 #### Date, 2024/03/29
 
-#### By *Grace Gitau*
+#### Author
+[Grace Gitau](https://github.com/gitaunthama/Personal-Porfolio.git)
 
 
 ## Description
-  CHANGE CASE
 
-  *CASEQ1
+1. <u>QUESTION 1</u> 
+
+  *Change case
+
   <p>The code provided converts the string characters witten from their initial case to the immediate opposite case(basically toggle case).</p>
 
-   ARRAY 
+   
 
-  *ARRAYQ2
-  <p>Writes two different numbers and returns an array of numbers between them.</p>
+2. <u>QUESTION 2 </u>
+*Array Numbers
+   
+  <p>Writes two different numbers and returns a range of numbers between them.</p>
 
-  PRIME NUMBERS
+3. <u>QUESTION 3</u>
 
-  *NUMQ3
+  *Prime numbers
 
-<p> The function `filterPrimes(arr)` performs the following steps:
- Iterates through each number in the input array.
- Checks if each number is prime using a helper function `isPrime(num)`.
- If a number is prime, it's added to a new array.
- Returns the new array containing only prime numbers..</p>
+<p> It loops through the provided numbers and returns only those that are prime numbers</p>
 
 
 ## Installation
@@ -33,12 +34,11 @@ You use git clone to be able to download the documents in the GitHub and work wi
 ## Installation Requirements
 Git
 
-### Installation instruction
-```
-Git clone  git@github.com:gitaunthama/week2-codechallenge.git
+### Installation instructions
+Git clone  
 
 # Live Link
-[Git] https://github.com/gitaunthama/week2-codechallenge.git
+[Git] 
 
 ## Technologies used
 HTML
@@ -47,7 +47,7 @@ Github
 Javascript
 
 ## Support and contact details
-https://github.com/gitaunthama
+[Email](https://mail.google.com/mail/u/1/#inbox)
 
 ### License
 The content of this site is licensed under the MIT license
